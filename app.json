@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Kids Learning Game",
+    "slug": "kids-learning-game",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.balakoushik.kidslearning"
+    }
+  }
+}
