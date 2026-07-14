@@ -1,15 +1,10 @@
 {
   "expo": {
-    "name": "Kids Learning Game",
-    "slug": "kids-learning-game",
+    "name": "Kids Game",
+    "slug": "kids-game",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
+    "scheme": "kidsgame",
     "android": {
       "package": "com.balakoushik.kidslearninggame",
       "versionCode": 1
